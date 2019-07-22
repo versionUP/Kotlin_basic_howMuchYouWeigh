@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HowMuchYouWeigh</string>
+    <string name="title_text">What\'s your weight on ...?</string>
+    <string name="button_text">Show weight</string>
+    <string name="mars">Mars</string>
+    <string name="jupitor">Jupitor</string>
+    <string name="venus">Venus</string>
+</resources>
